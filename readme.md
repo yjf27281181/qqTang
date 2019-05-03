@@ -1,1 +1,1 @@
-![image](https://github.com/yjf27281181/qqTang/qqtang.gif)
+![image](https://github.com/yjf27281181/qqTang/raw/master/qqtang.gif)
